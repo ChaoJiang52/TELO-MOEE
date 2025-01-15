@@ -1,0 +1,13 @@
+python==3.8
+Box2D==2.3.10
+GPy==1.10.0
+gpytorch==1.10
+botorch==0.8.5
+cocoex==2.6.3
+numpy==1.23.1
+pandas==1.5.2
+pygame==2.5.2
+pygmo==2.16.1
+scipy==1.9.3
+topsis==0.2
+torch==2.2.0

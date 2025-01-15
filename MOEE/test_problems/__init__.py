@@ -1,0 +1,32 @@
+from .synthetic_problems import (
+    WangFreitas,
+    Branin,
+    BraninForrester,
+    Cosines,
+    GoldsteinPrice,
+    SixHumpCamel,
+    Hartmann6,
+    GSobol,
+    Rosenbrock,
+    StyblinskiTang,
+    logGoldsteinPrice,
+    logSixHumpCamel,
+    logHartmann6,
+    logGSobol,
+    logRosenbrock,
+    logStyblinskiTang,
+    LEVY_2,
+    LEVY_10,
+    ACKLEY_2,
+    ACKLEY_10,
+    ACKLEY_20,
+    GRIEWANK_2,
+    GRIEWANK_10,
+    GRIEWANK_20,
+    Attractive_Sector,
+    Ellipsoidal,
+    Schwefel,
+
+)
+from .push_problems import push4, push8
+from .svm_cancer import svm_wdbc
