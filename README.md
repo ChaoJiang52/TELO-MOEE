@@ -31,6 +31,24 @@ To load and inspect these values use the following instructions:
 ((4, 2), (4, 1))
 ```
 
+## Citation
+
+If you use this code in your work, please consider cite our
+[paper](https://doi.org/10.1145/3716504):
+
+```bibtex
+@article{jiang2025multi,
+author = {Jiang, Chao and Li, Miqing},
+title = {Multi-objectivising acquisition functions in Bayesian optimisation},
+journal = {ACM Transactions on Evolutionary Learning and Optimization},
+year = {2025},
+volume = {5},
+number = {2},
+articleno = {15},
+numpages = {33},
+publisher = {Association for Computing Machinery}
+}
+```
 
 ## Acknowledgement
 
